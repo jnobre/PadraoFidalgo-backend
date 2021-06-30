@@ -1,0 +1,98 @@
+{
+	"variables": [],
+	"info": {
+		"name": "PadraoFidalgo",
+		"_postman_id": "46ba7144-d5e7-e436-9aaf-9d3926cd6f98",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "API works",
+			"request": {
+				"url": "https://padraofidalgo-backend.herokuapp.com/api",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Auth",
+			"request": {
+				"url": "https://padraofidalgo-backend.herokuapp.com/auth",
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					},
+					{
+						"key": "Authorization",
+						"value": "$2a$04$LtvsBvwBr0.gByFxs0sY5Orz.mcSHkXq4cU7D4NG6fdgapht6fel.",
+						"description": "",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n\t\"username\": \"talhomal\",\r\n\t\"password\": \"123\"\r\n}"
+				},
+				"description": "Auth "
+			},
+			"response": []
+		},
+		{
+			"name": "create user",
+			"request": {
+				"url": "https://padraofidalgo-backend.herokuapp.com/users",
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwayI6InJ3azR6cWZhcHk2MGNmNzcxNTAwOGFiMTIwNTRmNmQ5ZTIiLCJpYXQiOjE2MjQ3MjU5MTksImV4cCI6MTYyNDc0MDkxOSwiaXNzIjoiUGFkcmFvRmlkYWxnbyJ9.C3ydmd5t90GeBqvp8Pjlk4kMLbQytL4nYBh4yrIcde8",
+						"description": ""
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"name\": \"João Nobre\",\r\n\t\"type\": \"admin\",\r\n    \"nif\": \"260985326\",\r\n    \"mobile\":\"919999999\",\r\n    \"location\": {\r\n        \"city\": \"Porto\",\r\n        \"address\": \"rua da boavista\",\r\n        \"country\": \"Portugal\"\r\n    },\r\n    \"auth\": {\r\n        \"username\": \"janobre\",\r\n        \"password\": \"123\",\r\n        \"email\": \"joao.nobre@outlook.com\"\r\n        \r\n    }}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "get user",
+			"request": {
+				"url": "https://padraofidalgo-backend.herokuapp.com//users",
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwayI6ImsycG1memhuajE2MGQ3NmQxYjdmY2M0YTUyMmM5ZTk3ZDIiLCJpYXQiOjE2MjQ3MzA5MDcsImV4cCI6MTYyNDc0NTkwNywiaXNzIjoiUGFkcmFvRmlkYWxnbyJ9.ONXg3q8rQoQHyQF05AavT7fh2tuvLCCR17_lQB0pSh0",
+						"description": ""
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"name\": \"Remi\",\r\n\"type\": \"admin\",\r\n    \"birth_date\": \"1988-03-19\",\r\n    \"description\": \"Test-uab\",\r\n    \"location\": {\r\n        \"city\": \"Porto\",\r\n        \"district\": \"Porto\",\r\n        \"country\": \"Portugal\"\r\n    },\r\n    \"auth\": {\r\n        \"username\": \"pascal\",\r\n        \"password\": \"123\"\r\n    }}"
+				},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}

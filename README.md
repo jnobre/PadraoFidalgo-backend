@@ -7,6 +7,15 @@ Tecnologias utilizadas:
 * Express
 * MongoDB
 
+# Model
 
+A base de dados utilizada foi MongoDB. Na pasta db-example está a exportação de uma base de dados exemplo, com a modelização utilizada, com três coleções:
+* encomendas
+* produtos
+* user
 
-https://documenter.getpostman.com/view/3754041/SW7exkHe?version=latest
+# Testes
+
+De forma a fazer alguns testes foi utilizado a ferramenta Postman. Na raiz desta repositório está presente um ficheiro com uma exportação desses exemplos: postman-tests.
+
+URL da API: https://padraofidalgo-backend.herokuapp.com/

@@ -1,0 +1,126 @@
+[{
+  "_id": {
+    "$oid": "60cf7715008ab12054f6d9e2"
+  },
+  "active": true,
+  "name": "Talho Malveira",
+  "type": "user",
+  "nif": "260699879",
+  "mobile": "912589875",
+  "location": {
+    "city": "Venda do Pinheiro",
+    "address": "Rua Miguel Ferreira",
+    "country": "Portugal"
+  },
+  "auth": {
+    "username": "talhomal",
+    "email": "joaoanobregmailcom",
+    "password": "$2a$04$ZIBAgL/98bFyaJDrNSqH9OuQEpn3Sykh9D0pcMIdYZvtvdvhqNYDK",
+    "public_key": "rwk4zqfapy60cf7715008ab12054f6d9e2",
+    "private_key": "xrzvt1fq6ur60cf7715008ab12054f6d9e2"
+  },
+  "registration_date": {
+    "$date": "2021-06-20T17:12:53.266Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d76d1b7fcc4a522c9e97d2"
+  },
+  "active": true,
+  "name": "João Nobre",
+  "type": "admin",
+  "nif": "260985326",
+  "mobile": "919999999",
+  "location": {
+    "city": "Porto",
+    "address": "rua da boavista",
+    "country": "Portugal"
+  },
+  "auth": {
+    "username": "janobre",
+    "email": "joaonobreoutlookcom",
+    "password": "$2a$04$I2Q7/Y0OtaeNZwmGJTTlM.8nTEX.GEI9gCV9hTrkEA7hfy4IzRdLe",
+    "public_key": "k2pmfzhnj160d76d1b7fcc4a522c9e97d2",
+    "private_key": "io14n6ui7ks60d76d1b7fcc4a522c9e97d2"
+  },
+  "registration_date": {
+    "$date": "2021-06-26T18:08:27.397Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db76b26637390d614c8438"
+  },
+  "active": true,
+  "name": "Talho Sarifa",
+  "type": "user",
+  "nif": "288453463",
+  "mobile": "913453653",
+  "location": {
+    "city": "Almada",
+    "address": "R Bento de Jesus Caraça",
+    "country": "Portugal"
+  },
+  "auth": {
+    "username": "sarifa",
+    "email": "talhosarifagmailcom",
+    "password": "$2a$04$SOayps3yZKtpNR9lZqVjc.39Ru7EN50aNmXMjdnhykYlJkBGoDk/u",
+    "public_key": "20zxe9hilqyh60db76b26637390d614c8438",
+    "private_key": "ua4s2nj35tk60db76b26637390d614c8438"
+  },
+  "registration_date": {
+    "$date": "2021-06-29T19:38:26.876Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db77016637390d614c8439"
+  },
+  "active": true,
+  "name": "Sinais Emoção",
+  "type": "user",
+  "nif": "284593856",
+  "mobile": "934565356",
+  "location": {
+    "city": "Lisboa",
+    "address": "Centro comercial da Portela loja 40",
+    "country": "Portugal"
+  },
+  "auth": {
+    "username": "sinais",
+    "email": "sinaisemocaogmailcom",
+    "password": "$2a$04$1OijpcsGkkvvM18Uw64yT.84ylDLfL62x3Qwz2mho7N3wHFtVcjjy",
+    "public_key": "lv4ofakccy860db77016637390d614c8439",
+    "private_key": "mvrmtzgkjf60db77016637390d614c8439"
+  },
+  "registration_date": {
+    "$date": "2021-06-29T19:39:45.884Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db77546637390d614c843a"
+  },
+  "active": true,
+  "name": "Dionisio e Milheirico Lda",
+  "type": "user",
+  "nif": "258954302",
+  "mobile": "932569845",
+  "location": {
+    "city": "Lisboa",
+    "address": "Av Conde Valbom ",
+    "country": "Portugal"
+  },
+  "auth": {
+    "username": "dionisio",
+    "email": "dionisiomilheiricogmailcom",
+    "password": "$2a$04$9Uh38v0Jy5sH5xsPuET0NOpzSwxaMCLjNLAk9vv/1ZLhM3Oy3xK.K",
+    "public_key": "ht8bm4y6p660db77546637390d614c843a",
+    "private_key": "o5t79jjrprl60db77546637390d614c843a"
+  },
+  "registration_date": {
+    "$date": "2021-06-29T19:41:08.410Z"
+  },
+  "__v": 0
+}]

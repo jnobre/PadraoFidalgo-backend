@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "60d88f8c052323eeecf72ec7"
+  },
+  "active": true,
+  "designacao": "MÃOS DE VACA",
+  "referencia": "EXE 12",
+  "resumo": "Várias linhas disponiveis para descrição do artigo.",
+  "precosiva": "4,60€",
+  "iva": "0,26€",
+  "precociva": "4,88€",
+  "stock": "10",
+  "unidade": "Kg",
+  "registration_date": {
+    "$date": "2021-06-27T14:47:40.985Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d892b1052323eeecf72ec8"
+  },
+  "active": true,
+  "designacao": "DOBRADA",
+  "referencia": "EX. 13",
+  "resumo": "Várias linhas disponiveis para descrição do artigo.",
+  "precosiva": "3,65€",
+  "iva": "0,22€",
+  "precociva": "3,87€",
+  "stock": "10",
+  "unidade": "Kg",
+  "registration_date": {
+    "$date": "2021-06-27T15:01:05.514Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d892e9052323eeecf72ec9"
+  },
+  "active": true,
+  "designacao": "PÁ",
+  "referencia": "EXE.14",
+  "resumo": "Várias linhas disponiveis para descrição do artigo.",
+  "precosiva": "3,90€",
+  "iva": "0,23€",
+  "precociva": "4,13€",
+  "stock": "100",
+  "unidade": "Kg",
+  "registration_date": {
+    "$date": "2021-06-27T15:02:01.331Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d8932e052323eeecf72eca"
+  },
+  "active": true,
+  "designacao": "Peça de bife",
+  "referencia": "EXE.21",
+  "resumo": "Várias linhas disponiveis para descrição do artigo.",
+  "precosiva": "5,50€",
+  "iva": "0,33€",
+  "precociva": "5,83€",
+  "stock": "2",
+  "unidade": "Kg",
+  "registration_date": {
+    "$date": "2021-06-27T15:03:10.671Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d893b1052323eeecf72ecc"
+  },
+  "active": true,
+  "designacao": "Maozinhas de borrego",
+  "referencia": "EXE. 36",
+  "resumo": "Várias linhas disponiveis para descrição do artigo.",
+  "precosiva": "2,50€",
+  "iva": "0,15€",
+  "precociva": "2,65€",
+  "stock": "10",
+  "unidade": "Kg",
+  "registration_date": {
+    "$date": "2021-06-27T15:05:21.915Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d89401052323eeecf72ecd"
+  },
+  "active": true,
+  "designacao": "Bovinos",
+  "referencia": "EXE. 41",
+  "resumo": "Várias linhas disponiveis para descrição do artigo.",
+  "precosiva": "551,04€",
+  "iva": "126,74€",
+  "precociva": "677,76€",
+  "stock": "10",
+  "unidade": "Uni.",
+  "registration_date": {
+    "$date": "2021-06-27T15:06:41.241Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d89445052323eeecf72ece"
+  },
+  "active": true,
+  "designacao": "Bovinos com 12 ou mais meses de idade",
+  "referencia": "EXE. 42",
+  "resumo": "Várias linhas disponiveis para descrição do artigo.",
+  "precosiva": "521,50€",
+  "iva": "31,29€",
+  "precociva": "552,79€",
+  "stock": "9",
+  "unidade": "Uni.",
+  "registration_date": {
+    "$date": "2021-06-27T15:07:49.989Z"
+  },
+  "__v": 0
+}]
