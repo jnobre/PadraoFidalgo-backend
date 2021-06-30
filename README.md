@@ -16,6 +16,6 @@ A base de dados utilizada foi MongoDB. Na pasta db-example está a exportação 
 
 # Testes
 
-De forma a fazer alguns testes foi utilizado a ferramenta Postman. Na raiz desta repositório está presente um ficheiro com uma exportação desses exemplos: postman-tests.
+De forma a fazer alguns testes foi utilizado a ferramenta Postman. Na raiz deste repositório está presente um ficheiro com uma exportação desses exemplos: postman-tests.
 
 URL da API: https://padraofidalgo-backend.herokuapp.com/
